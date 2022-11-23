@@ -44,44 +44,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBYNH3Wsmt50QZZ09Goa8qosoa3AUFerQk',
-    appId: '1:738803069313:web:fbc180ffd0a6ea9ad7b880',
-    messagingSenderId: '738803069313',
-    projectId: 'connectingfirebasedbtopy-a2562',
-    authDomain: 'connectingfirebasedbtopy-a2562.firebaseapp.com',
-    databaseURL: 'https://connectingfirebasedbtopy-a2562-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'connectingfirebasedbtopy-a2562.appspot.com',
-    measurementId: 'G-74DZQV73MX',
+
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCswOgLNNmMiUwHuZKAiGT0YouYsz7Y97g',
-    appId: '1:738803069313:android:0fe7119b991b7887d7b880',
-    messagingSenderId: '738803069313',
-    projectId: 'connectingfirebasedbtopy-a2562',
-    databaseURL: 'https://connectingfirebasedbtopy-a2562-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'connectingfirebasedbtopy-a2562.appspot.com',
+
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB-MCyEhUq4aoCdT78fZyaQaf4pBgnwVRw',
-    appId: '1:738803069313:ios:33a680a0a18d637cd7b880',
-    messagingSenderId: '738803069313',
-    projectId: 'connectingfirebasedbtopy-a2562',
-    databaseURL: 'https://connectingfirebasedbtopy-a2562-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'connectingfirebasedbtopy-a2562.appspot.com',
-    iosClientId: '738803069313-r6gt1g5kv4hu4mprva4v029nhbckpgcj.apps.googleusercontent.com',
-    iosBundleId: 'com.cathai.cuhk.cathaiAttendance',
+
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB-MCyEhUq4aoCdT78fZyaQaf4pBgnwVRw',
-    appId: '1:738803069313:ios:33a680a0a18d637cd7b880',
-    messagingSenderId: '738803069313',
-    projectId: 'connectingfirebasedbtopy-a2562',
-    databaseURL: 'https://connectingfirebasedbtopy-a2562-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'connectingfirebasedbtopy-a2562.appspot.com',
-    iosClientId: '738803069313-r6gt1g5kv4hu4mprva4v029nhbckpgcj.apps.googleusercontent.com',
-    iosBundleId: 'com.cathai.cuhk.cathaiAttendance',
+
   );
 }
